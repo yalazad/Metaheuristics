@@ -11,10 +11,10 @@ Several python files with all the code generated for the project.
 
 In this Repository the used skills are:
 
-##Language
+## Language
 Python
 
-##Techniques employed:
+## Techniques employed:
 Rosenbroxk
 Eggcrate
 Golinski
