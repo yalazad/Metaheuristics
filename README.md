@@ -15,9 +15,9 @@ In this Repository the used skills are:
 Python
 
 ## Techniques employed
-*Rosenbrokk
-*Eggcrate
-*Golinski
-*Optimsation using Genetic Algorithms
-*Gradient method
-*Optimization with constraints
+* Rosenbrokk
+* Eggcrate
+* Golinski
+* Optimsation using Genetic Algorithms
+* Gradient method
+* Optimization with constraints
