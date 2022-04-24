@@ -4,8 +4,8 @@ This Repository includes the project created at the end of the Metaheuristics le
 
 It includes two pdfs :
 
-the questions asked for the assignment
-the actual assignment done by me
+* the questions asked for the assignment
+* the actual assignment
 
 Several python files with all the code generated for the project.
 
